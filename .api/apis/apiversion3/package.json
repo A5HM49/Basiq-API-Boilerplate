@@ -4,7 +4,7 @@
   "main": "./index.js",
   "types": "./index.d.ts",
   "dependencies": {
-    "api": "^6.1.2",
+    "api": "^7.0.0",
     "json-schema-to-ts": "^2.8.0-beta.0",
     "oas": "^31.1.2"
   }
